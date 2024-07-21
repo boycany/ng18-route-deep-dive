@@ -50,6 +50,10 @@ textarea {
   gap: 0.75rem;
 }
 
+.actions a {
+  cursor: pointer;
+}
+
 button {
   font: inherit;
   cursor: pointer;
