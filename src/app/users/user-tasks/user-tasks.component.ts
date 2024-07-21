@@ -2,7 +2,6 @@ import { Component, DestroyRef, computed, inject, input } from '@angular/core';
 import {
   ActivatedRoute,
   ActivatedRouteSnapshot,
-  Params,
   ResolveFn,
   RouterLink,
   RouterOutlet,

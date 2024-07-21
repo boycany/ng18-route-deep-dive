@@ -1,7 +1,7 @@
 import { Component, inject } from '@angular/core';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { Router } from '@angular/router';
-import { interval, timeout, timer } from 'rxjs';
+import { timer } from 'rxjs';
 
 @Component({
   selector: 'app-not-found',
